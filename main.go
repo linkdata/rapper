@@ -43,7 +43,7 @@ import (
 
 	"github.com/gorilla/websocket"
 	"github.com/julienschmidt/httprouter"
-	"github.com/linkdata/rap/go"
+	"github.com/linkdata/rap"
 	"github.com/pkg/profile"
 )
 

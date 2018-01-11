@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	_ "github.com/linkdata/rap/go"
+	_ "github.com/linkdata/rap"
 	"github.com/naoina/denco"
 )
 
